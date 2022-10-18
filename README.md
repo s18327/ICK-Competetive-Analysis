@@ -2,6 +2,15 @@
 # **RESEARCH** : (*UX Competitive Analysis*)
 <br>
 
+## Created by: 
+* **S18327** *Jakub Góralczyk*
+* **S21581** *Anton Kachula*
+* **s20817** *Viktor Lishchuk*
+* **s20703** *Baglan Sagidulla*
+
+<br>
+<br>
+
 # Your mobile application
 
 **A**. Proposed name: **Forgotten worlds**
@@ -43,6 +52,14 @@
 	• No gamification
 
 **What can be done better?**
+<p align="center">
+    <img src="photos\todoist\todoistone.jpg">
+	<img src="photos\todoist\todoisttwo.jpg">
+	<img src="photos\todoist\todoistthree.jpg">
+	<img src="photos\todoist\todoistfour.jpg">
+</p>
+
+
 
 ---
 <br>
@@ -81,6 +98,13 @@
 **What can be done better?**
 
 * Icons can be replaced with more intuitive design.
+* Themes and look could be improved 
+
+<p align="center">
+    <img src="photos\mstodo\msone.jpg">
+	<img src="photos\mstodo\mstwo.jpg">
+	
+</p>
 
 ---
 <br>
@@ -107,10 +131,17 @@
 
 **What is missing?**
 
-	•  
-	• 
+	•  more customization
+	•  maybe some more themes
 
 **What can be done better?**
+
+1. app looks dull
+
+<p align="center">
+    <img src="photos\timetree\timetreeone.jpg">
+	<img src="photos\timetree\timetreetwo.jpg">
+</p>
 
 ---
 <br>
@@ -138,6 +169,12 @@
 **What is missing?**
 
 	• Automatic detection of dates from text
-	• 
+	• Different themes
 
 **What can be done better?**
+* not a fan of big arching window corners
+
+<p align="center">
+    <img src="photos\anydo\anydoone.jpg">
+	<img src="photos\anydo\anydotwo.jpg">
+</p>
