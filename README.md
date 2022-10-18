@@ -1,5 +1,5 @@
 
-# **RESEARCH** : (*UX Competetive Analysis*)
+# **RESEARCH** : (*UX Competitive Analysis*)
 <br>
 
 # Your mobile application
@@ -12,17 +12,19 @@
 
 **D**: Elements of innovation: the application uses some form of gamification. The user has own world that evolves or gets destroyed. If user completes created tasks, he/she receives reward (item) to the world (new trees, stones, animals and so on). If the task is forgotten, world gets slowly destroyed. By this innovation we bound user's emotional attention not to the tasks but their worlds that they should take care of. 
 
-# Competetive analysis
+# Competitive analysis
 <br>
 
 ## TODOIST
+
+![](photos\logos\Todoist_logo.png) 
 
 ---
 
 **Main functions of the application**:
 
-1. To-do task managment 
-2. This app merges normal callendar with to-do reminder style
+1. To-do task management 
+2. This app merges normal calendar with to-do reminder style
 3. It is highly customizable and relatively easy to use
 
 **Advantages and disadvantages**:
@@ -45,7 +47,10 @@
 
 ## Microsoft TO-DO
 
----
+<p align="center">
+    <img src="photos\logos\mstodo.png">
+</p>
+
 
 **Main functions of the application**:
 
@@ -79,12 +84,13 @@
 <br>
 
 ## Time Tree
+![](photos\logos\timetree.svg)
 ---
 **Main functions of the application**:
 
-1. "A callendar made for sharing"
+1. "A calendar made for sharing"
 2. Recording and sharing your objectives
-3. Familly callendar integration
+3. Family calendar integration
 
 **Advantages and disadvantages**:
 
@@ -105,24 +111,25 @@
 <br>
 
 ## Any.do
+![](photos\logos\Any.do_logo.png)
 ---
 **Main functions of the application**:
 
 1. Task syncing across devices
-2. Set a reminder to a particular location or reoccuring time
-3. Shere task with anyone to collaborate and get more done
+2. Set a reminder to a particular location or reoccurring time
+3. Share task with anyone to collaborate and get more done
 
 **Advantages and disadvantages**:
 
 | Advantages| Disadvantages |
 |-----------|-------------:|
-|Creating and deviding tasks into various groups| |
-|Reminds about pending tasks before due date | |
+|Creating and dividing tasks into various groups| No task priorities |
+|Reminds about pending tasks before due date | No labels to help organize |
 |
 
 **What is missing?**
 
-	•  
+	• Automatic detection of dates from text
 	• 
 
 **What can be done better?**
