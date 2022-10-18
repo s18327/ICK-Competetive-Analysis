@@ -17,7 +17,9 @@
 
 ## TODOIST
 
-![](photos\logos\Todoist_logo.png) 
+<p align="center">
+    <img src="photos\logos\Todoist_logo.png">
+</p>
 
 ---
 
@@ -84,7 +86,10 @@
 <br>
 
 ## Time Tree
-![](photos\logos\timetree.svg)
+<p align="center">
+    <img src="photos\logos\timetree.svg">
+</p>
+
 ---
 **Main functions of the application**:
 
@@ -111,7 +116,10 @@
 <br>
 
 ## Any.do
-![](photos\logos\Any.do_logo.png)
+<p align="center">
+    <img src="photos\logos\Any.do_logo.png">
+</p>
+
 ---
 **Main functions of the application**:
 
