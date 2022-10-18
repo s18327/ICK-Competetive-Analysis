@@ -67,7 +67,7 @@
 ## Microsoft TO-DO
 
 <p align="center">
-    <img src="photos\logos\mstodo.png">
+    <img src="photos\logos\mstodo.svg">
 </p>
 
 
