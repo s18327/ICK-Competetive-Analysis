@@ -5,8 +5,8 @@
 ## Created by: 
 * **S18327** *Jakub Góralczyk*
 * **S21581** *Anton Kachula*
-* **s20817** *Viktor Lishchuk*
-* **s20703** *Baglan Sagidulla*
+* **S20817** *Viktor Lishchuk*
+* **S20703** *Baglan Sagidulla*
 
 <br>
 <br>
