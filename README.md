@@ -27,7 +27,7 @@
 ## TODOIST
 
 <p align="center">
-    <img src="photos\logos\Todoist_logo.png">
+    <img src="photos\logos\todoist.svg">
 </p>
 
 ---
@@ -147,8 +147,9 @@
 <br>
 
 ## Any.do
+
 <p align="center">
-    <img src="photos\logos\Any.do_logo.png">
+    <img src="photos\logos\anydo.webp">
 </p>
 
 ---
